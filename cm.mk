@@ -11,6 +11,6 @@ PRODUCT_NAME := cm_h901
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE="pplus" \
-    PRODUCT_NAME="pplus_tmo_us" \
+    PRODUCT_NAME="pplus_global_com" \
     BUILD_FINGERPRINT="lge/pplus_tmo_us/pplus:5.1.1/LMY47V/152801355bef0:user/release-keys" \
-    PRIVATE_BUILD_DESC="pplus_tmo_us-user 5.1.1 LMY47V 152801355bef0 release-keys"
+    PRIVATE_BUILD_DESC="pplus_global_com-user 5.1.1 LMY47V 152801355bef0 release-keys"
