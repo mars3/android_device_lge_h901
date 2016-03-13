@@ -17,10 +17,10 @@
 # inherit from common v10
 -include device/lge/v10-common/BoardConfigCommon.mk
 
-TARGET_OTA_ASSERT_DEVICE := v10,pplus,h901
+TARGET_OTA_ASSERT_DEVICE := v10,pplus,h961n
 
 # Kernel
-TARGET_KERNEL_CONFIG := cyanogenmod_h901_defconfig
+TARGET_KERNEL_CONFIG := cyanogenmod_h961n_defconfig
 
 # inherit from the proprietary version
 -include vendor/lge/h901/BoardConfigVendor.mk
